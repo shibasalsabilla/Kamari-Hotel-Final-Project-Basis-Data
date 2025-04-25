@@ -18,7 +18,7 @@ Kamari Hotel is a web-based hotel reservation system developed using Laravel, in
 This project demonstrates the application of database modeling, normalization, SQL operations, and data warehousing concepts in a real-world scenario.
 
 My Team: 
-Khansa Mutiara Kheeda (162112133110)
-Intan Nurul Laily (164221060)
-Rexwald Kamasean (164221073)
-Shiba Salsabilla (164221078)
+- Khansa Mutiara Kheeda (162112133110)
+- Intan Nurul Laily (164221060)
+- Rexwald Kamasean (164221073)
+- Shiba Salsabilla (164221078)
